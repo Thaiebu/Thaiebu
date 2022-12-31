@@ -38,7 +38,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Hacker Rank and read tech articles.
-- :python:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thaiebu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-thaiebu-0015a815a/)
 
@@ -47,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <p align="left">
+<!--   <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="/icons8-python-48.png" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons8-javascript-48.png" alt="javascript" width="40" height="40"/> </a> 
   <img src="./icons8-react-50.png" width="50" title="react">
@@ -63,7 +62,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons8-docker-48.png" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="icons8-nginx-48.png" alt="nginx" width="40" height="40"/> </a> 
-</p>
+</p> -->
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
 
