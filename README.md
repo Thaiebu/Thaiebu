@@ -1,4 +1,4 @@
-  <h1 style="text-align: center;">Welcome</h1>  
+  <h1 align="center">Welcome</h1>  
 
 <div id="header" align="center">
   <img target="_blank" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
