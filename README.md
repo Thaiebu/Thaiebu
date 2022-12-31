@@ -38,6 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Hacker Rank and read tech articles.
+- :python:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thaiebu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-thaiebu-0015a815a/)
 
