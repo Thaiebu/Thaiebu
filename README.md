@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div>
   <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="./icons8-python-48.png" alt="python" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="/icons8-python-48.png" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons8-javascript-48.png" alt="javascript" width="40" height="40"/> </a> 
   <img src="./icons8-react-50.png" width="50" title="react">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
