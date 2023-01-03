@@ -13,7 +13,10 @@
   <a  target="_blank" href="https://twitter.com/MThaiebu">
     <img target="_blank"  src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+  <a  target="_blank" href="https://twitter.com/MThaiebu">
+    <img target="_blank"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+  
 </div>
 
 <img target="_blank" src="https://komarev.com/ghpvc/?username=thaiebu&style=flat-square&color=blue" alt=""/>
