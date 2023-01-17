@@ -1,6 +1,4 @@
 <h1 align="center">Welcome</h1>  
-<img target="_blank" src="https://komarev.com/ghpvc/?username=thaiebu&style=flat-square&color=blue" alt=""/>
-
 <h1>
   Hey there , I am Mohamed Thaiebu
   <img target="_blank" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -23,6 +21,7 @@
     <img target="_blank"  src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img target="_blank" src="https://komarev.com/ghpvc/?username=thaiebu&style=flat-square&color=blue" alt=""/>
 ---
 
 ### :man_technologist: About Me :
