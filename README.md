@@ -2,7 +2,7 @@
 <img target="_blank" src="https://komarev.com/ghpvc/?username=thaiebu&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there , I am Mohamed Thaiebu
+  Hey there , I am Mohamed Thaiebu
   <img target="_blank" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
