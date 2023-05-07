@@ -14,12 +14,12 @@
     <a  target="_blank" href="https://www.hackerrank.com/thaibu786">
     <img target="_blank"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
-  <a  target="_blank" href="https://www.youtube.com/@tamilpracticalpsychology1461/featured">
+<!--   <a  target="_blank" href="https://www.youtube.com/@tamilpracticalpsychology1461/featured">
     <img  target="_blank" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a  target="_blank" href="https://twitter.com/MThaiebu">
     <img target="_blank"  src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 <img target="_blank" src="https://komarev.com/ghpvc/?username=thaiebu&style=flat-square&color=blue" alt=""/>
 ---
