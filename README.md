@@ -26,10 +26,10 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Engineer / Full-stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer.
 
 - :seedling: Exploring New Technology .
 
@@ -44,8 +44,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
 <!--   <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="/icons8-python-48.png" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons8-javascript-48.png" alt="javascript" width="40" height="40"/> </a> 
-  <img src="./icons8-react-50.png" width="50" title="react">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons8-html-48.png" alt="html5" width="40" height="40"/> </a>
@@ -56,6 +54,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons8-linux-48.png" alt="linux" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="icons8-amazon-web-services-48.png" alt="aws" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons8-javascript-48.png" alt="javascript" width="40" height="40"/> </a> 
+  <img src="./icons8-react-50.png" width="50" title="react">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons8-docker-48.png" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="icons8-nginx-48.png" alt="nginx" width="40" height="40"/> </a> 
 </p> -->
