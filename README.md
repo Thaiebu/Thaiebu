@@ -26,10 +26,10 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Engineer / Full-stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Scientis  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- :telescope: I’m working as a Software Engineer.
+- :telescope: I’m working as a Python Developer.
 
 - :seedling: Exploring New Technology .
 
@@ -64,9 +64,15 @@ I am a Data Engineer / Full-stack Developer  <img src="https://media.giphy.com/m
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TensorFlow_logo.svg/1280px-TensorFlow_logo.svg.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/logo.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ChromaDB_logo.png/1200px-ChromaDB_logo.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
