@@ -70,9 +70,9 @@ I am a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>
 <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Do-WI7DEvYRGn_bfMAgTa0SsiS7oXdDnfw&s"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ChromaDB_logo.png/1200px-ChromaDB_logo.png"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png"></code>
+<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vuCi0Uo1DCFnsBskWqAEmmLC0s13tACKSw&s"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
+<code><img width="10%" src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
