@@ -65,10 +65,10 @@ I am a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TensorFlow_logo.svg/1280px-TensorFlow_logo.svg.png"></code>
+<code><img width="10%" src="https://cdn-images-1.medium.com/max/851/1*nPcdyVwgcuEZiEZiRqApug.jpeg"></code>
+<code><img width="10%" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>
-<code><img width="10%" src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/logo.png"></code>
+<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Do-WI7DEvYRGn_bfMAgTa0SsiS7oXdDnfw&s"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ChromaDB_logo.png/1200px-ChromaDB_logo.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
